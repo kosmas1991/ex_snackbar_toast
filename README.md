@@ -1,3 +1,5 @@
+![Screenshot](screenshot.png)
+
 # ex_snackbar_toast
 
 A new Flutter project.
